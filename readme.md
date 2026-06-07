@@ -5,7 +5,7 @@
 
 Choose any modern multiplayer online game that involves **more than two players**. Examples include:
 
-* Battle Royale games
+* Battle Royale gam
 * MOBA games
 * Team-based shooters
 * Multiplayer survival games
